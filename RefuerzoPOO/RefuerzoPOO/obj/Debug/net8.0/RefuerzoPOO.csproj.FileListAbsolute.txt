@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Refuerzo_POO\RefuerzoPOO\RefuerzoPOO\bin\Debug\net8.0\RefuerzoPOO.exe
+C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Refuerzo_POO\RefuerzoPOO\RefuerzoPOO\bin\Debug\net8.0\RefuerzoPOO.deps.json
+C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Refuerzo_POO\RefuerzoPOO\RefuerzoPOO\bin\Debug\net8.0\RefuerzoPOO.runtimeconfig.json
+C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Refuerzo_POO\RefuerzoPOO\RefuerzoPOO\bin\Debug\net8.0\RefuerzoPOO.dll
+C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Refuerzo_POO\RefuerzoPOO\RefuerzoPOO\bin\Debug\net8.0\RefuerzoPOO.pdb
+C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Refuerzo_POO\RefuerzoPOO\RefuerzoPOO\obj\Debug\net8.0\RefuerzoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Refuerzo_POO\RefuerzoPOO\RefuerzoPOO\obj\Debug\net8.0\RefuerzoPOO.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Refuerzo_POO\RefuerzoPOO\RefuerzoPOO\obj\Debug\net8.0\RefuerzoPOO.AssemblyInfo.cs
+C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Refuerzo_POO\RefuerzoPOO\RefuerzoPOO\obj\Debug\net8.0\RefuerzoPOO.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Refuerzo_POO\RefuerzoPOO\RefuerzoPOO\obj\Debug\net8.0\RefuerzoPOO.dll
+C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Refuerzo_POO\RefuerzoPOO\RefuerzoPOO\obj\Debug\net8.0\refint\RefuerzoPOO.dll
+C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Refuerzo_POO\RefuerzoPOO\RefuerzoPOO\obj\Debug\net8.0\RefuerzoPOO.pdb
+C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Refuerzo_POO\RefuerzoPOO\RefuerzoPOO\obj\Debug\net8.0\RefuerzoPOO.genruntimeconfig.cache
+C:\Users\HP\OneDrive\GUIAS_PROGRA_2\Refuerzo_POO\RefuerzoPOO\RefuerzoPOO\obj\Debug\net8.0\ref\RefuerzoPOO.dll
